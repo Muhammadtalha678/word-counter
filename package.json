@@ -1,6 +1,6 @@
 {
-  "name": "@muhammad-talha678/word-counter",
-  "version": "1.0.1",
+  "name": "@muhammad-talha678/word-counterr",
+  "version": "1.0.0",
   "description": "Word Counter Using Nodejs and Typescript",
   "main": "index.js",
   "type": "module",
