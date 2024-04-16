@@ -16,6 +16,3 @@ inquirer
 ## Contributors
 Muhammad Talha
 
-## Keywords
-
-Word CounterCLI toolNode.jsCommand-line interfaceText analysisWord countingSentence 
